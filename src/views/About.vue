@@ -1,5 +1,10 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <section class="hero is-primary">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">Primary title</h1>
+        <h2 class="subtitle">Primary subtitle</h2>
+      </div>
+    </div>
+  </section>
 </template>
